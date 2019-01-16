@@ -1,0 +1,303 @@
+<?xml version="1.0"?>
+<Catalog>
+	<product>
+		<id>1</id>
+		<name>Kendall Buffet</name>
+		<short_desc>Simple Living Antique White Kendall Buffet</short_desc>
+		<long_desc>Add classic style to your kitchen or dining room with this charming white Simple Living buffet. With two drawers, an enclosed cabinet and adjustable glass shelves, this wood buffet provides enough storage for dishes, silverware and glassware.</long_desc>
+		<quantity>5</quantity>
+		<discount>10%</discount>
+		<tn_img_url>img/product/Kendall-buffet.jpg</tn_img_url>
+		<img_url>img/product/Kendall-buffet-preview.jpg</img_url>
+		<status>0</status>
+		<price>4,161,001.60</price>
+	</product>
+	<product>
+		<id>2</id>
+		<name>Reyna Curtain</name>
+		<short_desc>Lush Decor Reyna Curtain Panel Pair</short_desc>
+		<long_desc>This classy curtain panel pair will bring style and sophistication to your home. Cascading ruffle boarder adds to the elegance and simplicity of this solid window panel.</long_desc>
+		<quantity>5</quantity>
+		<discount>10%</discount>
+		<tn_img_url>img/product/Reyna-Curtain.jpg</tn_img_url>
+		<img_url>img/product/Reyna-Curtain-preview.jpg</img_url>
+		<status>1</status>
+		<price>626,102.40</price>
+	</product>
+	<product>
+		<id>3</id>
+		<name>Herb Collection</name>
+		<short_desc>Herb Collection 9.5-inch Herb Faux Plant Set</short_desc>
+		<long_desc>Classic Faux Herb Selection Decorative Burlap Containers Quaint Herb Markers add to the Realism Herb Collection</long_desc>
+		<quantity>5</quantity>
+		<discount>10%</discount>
+		<tn_img_url>img/product/Herb-Collection.jpg</tn_img_url>
+		<img_url>img/product/Herb-Collection-preview.jpg</img_url>
+		<status>2</status>
+		<price>551,936.00</price>
+	</product>
+	<product>
+		<id>4</id>
+		<name>Rustic Bookshelf</name>
+		<short_desc>60" Rustic Metal and Wood Media Bookshelf - Barnwood</short_desc>
+		<long_desc>Make this rich, rustic bookshelf your showcase piece for books, accessories, decor and more. The various shelving layers offer ample storage space for all of your media needs.</long_desc>
+		<quantity>5</quantity>
+		<discount>10%</discount>
+		<tn_img_url>img/product/Rustic-Bookshelf.jpg</tn_img_url>
+		<img_url>img/product/Rustic-Bookshelf-preview.jpg</img_url>
+		<status>2</status>
+		<price>2,769,266.40</price>
+	</product>
+	<product>
+		<id>5</id>
+		<name>Fountain</name>
+		<short_desc>Ashboro Fountain</short_desc>
+		<long_desc>Add a decorative accent to your garden or patio decor with an Ashboro Zen fountain. This fountain will do a nice job of blending new and old designs. Crafted from durable poly resin, this fountain features modern angles and a stacked square basin.</long_desc>
+		<quantity>5</quantity>
+		<discount>10%</discount>
+		<tn_img_url>img/product/Fountain.jpg</tn_img_url>
+		<img_url>img/product/Fountain-preview.jpg</img_url>
+		<status>2</status>
+		<price>3,130,982.40</price>
+	</product>
+	<product>
+		<id>6</id>
+		<name>nuLOOM Rug</name>
+		<short_desc>nuLOOM Hand-woven Flokati Wool Shag Rug (5' x 7')</short_desc>
+		<long_desc>This beautiful Flokati rug is made in Greece using 100-percent New Zealand wool so that it is plush to the touch.</long_desc>
+		<quantity>5</quantity>
+		<discount>10%</discount>
+		<tn_img_url>img/product/nuLOOM-Rug.jpg</tn_img_url>
+		<img_url>img/product/nuLOOM-Rug-preview.jpg</img_url>
+		<status>0</status>
+		<price>2,904,406.40</price>
+	</product>
+	<product>
+		<id>7</id>
+		<name>Wood Bench</name>
+		<short_desc>Wood Driftwood 42-inch Storage Bench with Totes and Cushion</short_desc>
+		<long_desc>This storage bench is a charming addition to any living area, bedroom, or hallway, and also provides additional seating with a thick, comfy cushion. Includes three storage bins to store shoes, toys, and accessories to help you maintain a tidy area.</long_desc>
+		<quantity>5</quantity>
+		<discount>10%</discount>
+		<tn_img_url>img/product/Wood-bench.jpg</tn_img_url>
+		<img_url>img/product/Wood-bench-preview.jpg</img_url>
+		<status>2</status>
+		<price>2,469,286.40</price>
+	</product>
+	<product>
+		<id>8</id>
+		<name>Altra Rolling Cart</name>
+		<short_desc>Altra Marshall 3-shelf Rolling Utility Cart</short_desc>
+		<long_desc>This utility cart is made of sturdy metal in a powder-coat finish that looks great in any space. Wheels provide easy mobility throughout the room or your home, while the three shelves provide room for virtually any items that you need easy access to.</long_desc>
+		<quantity>5</quantity>
+		<discount>10%</discount>
+		<tn_img_url>img/product/Altra-Rolling-Cart.jpg</tn_img_url>
+		<img_url>img/product/Altra-Rolling-Cart-preview.jpg</img_url>
+		<status>2</status>
+		<price>675,494.40</price>
+	</product>
+	<product>
+		<id>9</id>
+		<name>Kitchen Rack</name>
+		<short_desc>Steel Bookshelf-style Kitchen Rack</short_desc>
+		<long_desc>Update and organize your kitchen with this bookshelf-style kitchen rack. Crafted from heavy gauge steel with a durable lacquered finish in your choice of colors, the rack is simple, but elegant.</long_desc>
+		<quantity>5</quantity>
+		<discount>10%</discount>
+		<tn_img_url>img/product/Kitchen-Rack.jpg</tn_img_url>
+		<img_url>img/product/Kitchen-Rack-preview.jpg</img_url>
+		<status>2</status>
+		<price>1,079,254.40</price>
+	</product>
+	<product>
+		<id>10</id>
+		<name>Cotton Blanket</name>
+		<short_desc>True Cotton Thermal Blanket</short_desc>
+		<long_desc>Add extra warmth and cozy comfort to your bedding with this stylish, true cotton thermal blanket. Crafted from 100-percent cotton, the lightweight thermal features a loose leno weave that creates small air pockets to keep the heat in when covered.</long_desc>
+		<quantity>5</quantity>
+		<discount>10%</discount>
+		<tn_img_url>img/product/Cotton-Blanket.jpg</tn_img_url>
+		<img_url>img/product/Cotton-Blanket-preview.jpg</img_url>
+		<status>2</status>
+		<price>426,339.20</price>
+	</product>
+	<product>
+		<id>11</id>
+		<name>Chateau</name>
+		<short_desc>Chateau by Sheri Shag Faux Fur Pillows, Throw and Set</short_desc>
+		<long_desc>Fun, funky shag delivers a trendy look and a fabulous feel to your home decor. Your choice of a pillow or blanket or both together can give a cohesive look that acts as a fun throwback to the disco era</long_desc>
+		<quantity>5</quantity>
+		<discount>10%</discount>
+		<tn_img_url>img/product/Cheteau.jpg</tn_img_url>
+		<img_url>img/product/Cheteau-preview.jpg</img_url>
+		<status>2</status>
+		<price>623,280.00</price>
+	</product>
+	<product>
+		<id>12</id>
+		<name>Throw Pillow</name>
+		<short_desc>Ink+Ivy Kiran Embroidered Oblong Cotton Throw Pillow</short_desc>
+		<long_desc>The Ink+Ivy Kiran oblong pillow can be used in all rooms in your home. Its ornamental chain stitch embroidery is thick providing a dramatic affect from this global design. This decorative pillow coordinates with the Ink+Ivy Bedding Collection.</long_desc>
+		<quantity>5</quantity>
+		<discount>10%</discount>
+		<tn_img_url>img/product/Throw-Pillow.jpg</tn_img_url>
+		<img_url>img/product/Throw-Pillow-preview.jpg</img_url>
+		<status>2</status>
+		<price>642,566.40</price>
+	</product>
+	<product>
+		<id>13</id>
+		<name>Mermaid Blanket</name>
+		<short_desc>Cheer Collection Large Mermaid Tail Blanket</short_desc>
+		<long_desc>This fun and colorful blanket is an accessory that will keep you warm and stylish. The bright colors and cozy acrylic blend is friendly to all skin types while being a creative choice for a lover of fantasy creatures.</long_desc>
+		<quantity>5</quantity>
+		<discount>10%</discount>
+		<tn_img_url>img/product/Mermaid-Blanket.jpg</tn_img_url>
+		<img_url>img/product/Mermaid-Blanket-preview.jpg</img_url>
+		<status>2</status>
+		<price>490,000.00</price>
+	</product>
+	<product>
+		<id>14</id>
+		<name>Child Bookshelf</name>
+		<short_desc>Children's 2-shelf White Bookcase</short_desc>
+		<long_desc>Give your child's room or playroom plentiful storage space with this adorable white bookshelf, featuring pretty shaped legs and a chic white finish. Designed with curved side ledges along the top, this decorative bookcase features two shelves.</long_desc>
+		<quantity>5</quantity>
+		<discount>10%</discount>
+		<tn_img_url>img/product/kids-bookself.jpg</tn_img_url>
+		<img_url>img/product/kids-bookself-preview.jpg</img_url>
+		<status>1</status>
+		<price>1,944,476.80</price>
+	</product>
+	<product>
+		<id>15</id>
+		<name>Night stand</name>
+		<short_desc>Ameriwood Home Core Dark Grey Oak Night Stand</short_desc>
+		<long_desc>Keep your bedroom essentials within arm s reach with the Ameriwood Home Core Nightstand. The Core Nightstand has a bottom cubby that can be used to store books or magazines while the drawer offers concealed storage. Two adults recommended for assembly.</long_desc>
+		<quantity>5</quantity>
+		<discount>10%</discount>
+		<tn_img_url>img/product/Night-Stand.jpg</tn_img_url>
+		<img_url>img/product/Night-Stand-preview.jpg</img_url>
+		<status>2</status>
+		<price>823,827.20</price>
+	</product>
+	<product>
+		<id>16</id>
+		<name>Hourglass Table</name>
+		<short_desc>Handmade Hourglass Shape Copper End Table (India)</short_desc>
+		<long_desc>A one-of-a-kind handcrafted work from artisans in India, this copper stool has a distinctive presence in any space, delivering dimension and splendor wherever it is placed.</long_desc>
+		<quantity>5</quantity>
+		<discount>10%</discount>
+		<tn_img_url>img/product/Hourglass-Table.jpg</tn_img_url>
+		<img_url>img/product/Hourglass-Table-preview.jpg</img_url>
+		<status>2</status>
+		<price>1,367,609.60</price>
+	</product>
+	<product>
+		<id>17</id>
+		<name>Pebbles</name>
+		<short_desc>Exotic Pebbles and Aggregates PRS-1030 5-pound Red Polished Pebbles</short_desc>
+		<long_desc>An alternative to mulch, They are long lasting and will not deteriorate like mulch does, Use in flower arrangements, walkways, water features, exposed aggregate flooring or walls, around swimming pool...</long_desc>
+		<quantity>5</quantity>
+		<discount>10%</discount>
+		<tn_img_url>img/product/pebbles.jpg</tn_img_url>
+		<img_url>img/product/pebbles-preview.jpg</img_url>
+		<status>2</status>
+		<price>232,220.80</price>
+	</product>
+	<product>
+		<id>18</id>
+		<name>Flower Arragemnet</name>
+		<short_desc>Pure Garden Hydrangea and Rose Floral Arrangement - Pink and Cream</short_desc>
+		<long_desc>The Pure Garden Rose and Hydrangea Floral Arrangement features three pink roses with cream accents and three cream hydrangeas with pink accents tucked away in an adorable glass vase with faux water.</long_desc>
+		<quantity>5</quantity>
+		<discount>10%</discount>
+		<tn_img_url>img/product/floral-arrangement.jpg</tn_img_url>
+		<img_url>img/product/floral-arrangement-preview.jpg</img_url>
+		<status>2</status>
+		<price>434,022.40</price>
+	</product>
+	<product>
+		<id>19</id>
+		<name>Foam Mattress</name>
+		<short_desc>Slumber Solutions Choose Your Comfort 14-inch Queen-size Gel Memory Foam Mattress</short_desc>
+		<long_desc>Superior comfort, outstanding luxury, and ultimate satisfaction are provided by the Slumber Solutions 14-inch Choose Your Comfort Gel Memory Foam Mattress. The cooling technology of gel foam ensures sleep that leaves you relaxed and rejuvenated.</long_desc>
+		<quantity>5</quantity>
+		<discount>10%</discount>
+		<tn_img_url>img/product/Foam-Mattress.jpg</tn_img_url>
+		<img_url>img/product/Foam-Mattress-preview.jpg</img_url>
+		<status>2</status>
+		<price>7,415,699.20</price>
+	</product>
+	<product>
+		<id>20</id>
+		<name>bamboo wind chimes</name>
+		<short_desc>Bamboo Burnt Hibyscus Wind Chime, Handmade in Indonesia</short_desc>
+		<long_desc>Bring a hint of Bali to your patio with these decorative bamboo wind chimes. Your guests will enjoy a range of musical sounds as its six gorgeous chimes, each of which feature an intricate burned flower design, blow in the breeze.</long_desc>
+		<quantity>5</quantity>
+		<discount>10%</discount>
+		<tn_img_url>img/product/Bamboo-Wind.jpg</tn_img_url>
+		<img_url>img/product/Bamboo-Wind-preview.jpg</img_url>
+		<status>0</status>
+		<price>441,078.40</price>
+	</product>
+	<product>
+		<id>21</id>
+		<name>bed kids</name>
+		<short_desc>Mercer Casted Knot Metal Bed by iNSPIRE Q Classic</short_desc>
+		<long_desc>This bed is inspired by Victorian wrought iron and bronze bedframes. The graceful metalwork and ornamentation showcase the piece?s attention to beautifully historic yet timeless details.</long_desc>
+		<quantity>5</quantity>
+		<discount>10%</discount>
+		<tn_img_url>img/product/bed-kids.jpg</tn_img_url>
+		<img_url>img/product/bed-kids-preview.jpg</img_url>
+		<status>0</status>
+		<price>4,399,964.80</price>
+	</product>
+	<product>
+		<id>22</id>
+		<name>bed PAW Patrol</name>
+		<short_desc>Nick Jr. PAW Patrol Wood Toddler Bed</short_desc>
+		<long_desc>Bring the excitement of an action-packed rescue adventure to your child's room with the Nick Jr. PAW Patrol Wood Toddler Bed by Delta Children.</long_desc>
+		<quantity>5</quantity>
+		<discount>10%</discount>
+		<tn_img_url>img/product/paw-patrol.jpg</tn_img_url>
+		<img_url>img/product/paw-patrol-preview.jpg</img_url>
+		<status>2</status>
+		<price>1,812,608.00</price>
+	</product>
+	<product>
+		<id>23</id>
+		<name>Artificial floral</name>
+		<short_desc>Artificial Large Daisy and Rose Mixed Flowers Bush</short_desc>
+		<long_desc>Deck up your office or home with this lovely artificial mixed flower bush. Arranged in a variety of colors from burnt orange to pink-tinged cream, this lovely daisy and rose bouquet works well in a large vase. </long_desc>
+		<quantity>5</quantity>
+		<discount>10%</discount>
+		<tn_img_url>img/product/floral-arrangement2.jpg</tn_img_url>
+		<img_url>img/product/floral-arrangement2-preview.jpg</img_url>
+		<status>2</status>
+		<price>358,758.40</price>
+	</product>
+	<product>
+		<id>24</id>
+		<name>Outdoor Rug</name>
+		<short_desc>StyleHaven Floral Ivory/Grey Indoor-Outdoor Area Rug</short_desc>
+		<long_desc>Spruce up your home with this gray area rug. This indoor/outdoor rug features a distinctive floral pattern and a 1.16-inch pile height. Constructed from 100 percent polypropylene material, this piece is sure to withstand everyday wear and tear.</long_desc>
+		<quantity>5</quantity>
+		<discount>10%</discount>
+		<tn_img_url>img/product/Outdoor-Rug.jpg</tn_img_url>
+		<img_url>img/product/Outdoor-Rug-preview.jpg</img_url>
+		<status>2</status>
+		<price>679,571.20</price>
+	</product>
+	<product>
+		<id>25</id>
+		<name>Twin Bed</name>
+		<short_desc>Dorel Living Brady Wood Twin-over-Full Bunk Bed</short_desc>
+		<long_desc>The Brady Twin over Full Bunk Bed is a space saving solution that both parents and children alike will love. The practical design of this bunk bed lets children have a safe and fun area to sleep, all while maximizing room space for children to play in.</long_desc>
+		<quantity>5</quantity>
+		<discount>10%</discount>
+		<tn_img_url>img/product/twin-bed.jpg</tn_img_url>
+		<img_url>img/product/twin-bed-preview.jpg</img_url>
+		<status>1</status>
+		<price>5,470,908.80</price>
+	</product>
+</Catalog>
